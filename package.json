@@ -1,0 +1,6 @@
+{
+  "name": "test20240418",
+  "dependencies": {
+    "@dataform/core": "2.8.3"
+  }
+}
