@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
+  "name": "test20240418",
+=======
   "name": "test",
+>>>>>>> refs/heads/master
   "dependencies": {
     "@dataform/core": "2.8.3"
   }
